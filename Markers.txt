@@ -1,1 +1,2 @@
 Erez Crossing[31.55842495968673, 34.5435847588294]
+Tel Aviv https://en.wikipedia.org/wiki/Tel_Aviv[32.08, 34.78]
